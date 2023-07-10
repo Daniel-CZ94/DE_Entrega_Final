@@ -37,6 +37,6 @@ El archivo keys/config.json contiene las configuraciones principales. Las config
 ### Archivos con datos sensibles
 En la carpeta keys existen 2 archivos: key_email y pass_email. pass_email contiene la contraseña encriptada del email de envio de notificaciones y key_email contiene la clave de desencriptacion de la contraseña del email.
 
-**NOTA IMPORTANTE PARA EL PROFESOR DAVID BUSTOS**
+***NOTA IMPORTANTE PARA EL PROFESOR DAVID BUSTOS***
 Actualmente el parametro del correo de destino de las notificaciones esta vacio, favor de colocar el suyo al momento de probar.
 Saludos.
